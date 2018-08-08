@@ -6,3 +6,7 @@
     first-name: Avery,
     last-name: Fuentes
 }
+{
+    first-name: Graciela,
+    last-name: Cerezo
+}
